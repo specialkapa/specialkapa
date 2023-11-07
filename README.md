@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @specialkapa
-- 💻🚫🏢 I'm a Model Risk Validation Officer at NatWest Group.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering principles
-- 💞️ Not loking for collaboration at the moment
-- 📫 Reach me at specialkapa16@gmail.com
+- 💻🚫🏢 I'm a full stack software engineer
+- 🐍🐍 I specialise in python 
 
 <!---
 specialkapa/specialkapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
